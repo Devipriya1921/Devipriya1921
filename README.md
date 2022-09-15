@@ -81,4 +81,8 @@ Tools used : Makerchip IDE, RISC-V ISA Simulator, RISC-V GNU Tool-chain, Spike 3
 
 
 
+#### My Stats :
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Devipriya1921&theme=highcontrast&show_icons=true&count_private=true)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Devipriya1921&layout=compact)
