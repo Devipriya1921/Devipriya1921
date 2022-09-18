@@ -5,6 +5,17 @@
 - 🔭 I’m currently a Physical Design Trainee at VLSI System Design (VSD) and Semiconductor Fabless Accelerator Lab (SFAL).
 - 📫 You can connect with me on [LinkenIn](https://www.linkedin.com/in/a-devipriya/) 
 
+
+<p align = "center">
+  
+  
+  <a href="https://github.com/Ikarthikmb/github-readme-streak-stats" title="Go to Source">
+<img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Devipriya1921&theme=light&border=e0e0e0&hide_border=false" alt="Ikarthikmb" />
+</a>
+
+</p>
+
+
 ### My Projects :
 
 **1. RISC-V Based SoC** 
@@ -83,6 +94,11 @@ Tools used : Makerchip IDE, RISC-V ISA Simulator, RISC-V GNU Tool-chain, Spike 3
 
 #### My Stats :
 
+<p align = "center">
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Devipriya1921&theme=highcontrast&show_icons=true&count_private=true)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Devipriya1921&layout=compact)
+
+
+</p>
