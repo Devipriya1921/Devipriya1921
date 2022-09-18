@@ -51,7 +51,7 @@ Tools used : Makerchip IDE, RISC-V ISA Simulator, RISC-V GNU Tool-chain, Spike 3
 
 ### My Work Experience :
 
-**1. Training Intern** [(Apr '22 - Present) at VSD (VLSI System Design) and SFAL (Semiconductor Fabless Accelerator Lab)]
+**1. Physical Design Trainee** [(Apr '22 - Present) at VSD (VLSI System Design) and SFAL (Semiconductor Fabless Accelerator Lab)]
 
    Designed and Implemented 10-Bit DAC Custom Layout on Synopsys Custom Compiler Tool using SAED32_28nm. The results were simulated and verified using PrimeWave. Extracted the LEF File while challenges included to clear the DRC and LVS Violations. 
 
