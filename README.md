@@ -1,8 +1,10 @@
 ![Blue Pink Abstract Playful Study Tips Graph (1)](https://user-images.githubusercontent.com/83152452/190498167-9c00fcba-642c-453c-8bdc-12fd42e58693.gif)
 
-### Hi there👋, I am Devipriya..!!
 
-- 🔭 I’m currently a Physical Design Trainee at VLSI System Design (VSD) and Semiconductor Fabless Accelerator Lab (SFAL).
+### Hi there👋 I am Devipriya..!!
+
+- 🔭 I have got trained as a Physical Design Trainee at VLSI System Design (VSD) and Semiconductor Fabless Accelerator Lab (SFAL), Bangalore.
+- Currently working as an Intern and trainee at Synopsys, Hyderabad.
 - 📫 You can connect with me on [LinkenIn](https://www.linkedin.com/in/a-devipriya/) 
 
 
