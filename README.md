@@ -5,7 +5,7 @@
 
 - 🔭 I have got trained as a Physical Design Trainee at VLSI System Design (VSD) and Semiconductor Fabless Accelerator Lab (SFAL), Bangalore.
 - Currently working as an Intern and trainee at Synopsys, Hyderabad.
-- 📫 You can connect with me on [LinkenIn](https://www.linkedin.com/in/a-devipriya/) 
+- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/a-devipriya/) 
 
 
 <p align = "center">
